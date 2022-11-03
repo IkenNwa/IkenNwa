@@ -1,4 +1,4 @@
- 👋 Hi, I’m Ikechukwu Nwachukwu
+ #👋 Hi, I’m Ikechukwu Nwachukwu
 
 <!---
 IkenNwa/IkenNwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
